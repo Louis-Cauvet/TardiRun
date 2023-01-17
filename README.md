@@ -2,13 +2,13 @@
 
 > Projet Tutoré de S4 au DUT Informatique
 ### Contexte 💬
-Pour le projet tutoré de S4 on nous laissait carte blanche pour réaliser ce qu'on voulait, sous condition de validation de notre idée par un professeur. J'ai donc choisi de tenter de réaliser un jeu 2D avec Unity, car c'est un aspect que l'on avait pas eu la chance d'étudier au DUT, et cela permettait également de me démarquer un peu du reste de la promo avec une conception originale.
+Pour le projet tutoré de S4 on nous laissait carte blanche pour réaliser ce qu'on voulait, sous condition de validation de notre idée par un professeur. J'ai donc choisi de tenter de réaliser un jeu 2D avec Unity, car c'est un aspect que l'on avait pas eu la chance d'étudier au DUT, et cela permettait également de me démarquer un peu du reste de la promo avec une création originale.
 
 Mon jeu s'appelle donc TardiRun, c'est un jeu en 2D dans lequel le joueur contrôle les déplacements du personnage principal à travers un niveau, en évitant les obstacles et les ennemis pour atteindre la fin du niveau. </br>
 - Petit synopsis du scénario : *"Les extras-terrestres ont envahis la TardiPlanète !! Après les avoir courageusement retenus auprès de votre château le temps que toute la population puisse s'enfuir, c'est à votre tour, le Roi des Tardigrades, d'atteindre une fusée qui vous permettra qui quitter cet endroit devenu trop dangereux. Mais attention, les ennemis vous attendent, et sont bien déterminés à se débarrasser de vous ! Réussirez-vous à vous frayer un chemin parmi les obstacles, tous plus dangereux les uns que les autres ? Seul votre talent pourra nous le dire..."*
 
 ### Technologies ⚙️
-Projet réalisé avec l'aide du moteur de jeu **Unity** pour faciliter son dévelopemment. Tous les scripts liés au focntionnement du jeu sont codés en **C#**, et l'ensemble des graphismes ont été (maladroitement) réalisés par mes soins avec le site **Piskel**.
+Projet réalisé avec l'aide du moteur de jeu **Unity** pour faciliter son dévelopemment. Tous les scripts liés au fonctionnement du jeu sont codés en **C#**, et l'ensemble des graphismes ont été (maladroitement) réalisés par mes soins avec le site **Piskel**.
 
 ### Collaborateurs 👥
 *Projet développé en totale autonomie*
